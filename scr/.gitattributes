@@ -1,1 +1,4 @@
 Lake_AFS_4objectives_5scenarios-revision.psd filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+Lake_ASF_4objectives_5scenarios-revision.psd filter=lfs diff=lfs merge=lfs -text
+Lake_ASF_4objectives_5scenarios-revision.ipynb filter=lfs diff=lfs merge=lfs -text
