@@ -1,4 +1,4 @@
-# Multi-scenario-Multi-objective-Robust-Optimization-under-Deep-Uncertainty: A posteriory approach
+# Multi-scenario-Multi-objective-Robust-Optimization-under-Deep-Uncertainty: A posteriori approach
 
 Authors: Babooshka Shavazipour*, Jan H. Kwakkel**, and Kaisa Miettinen*
 
